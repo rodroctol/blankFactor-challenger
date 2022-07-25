@@ -1,0 +1,12 @@
+{
+    "projectId": "blankfactor-web-automation",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "defaultCommandTimeout": 60000,
+    "testFiles": "**/*.{feature,features}",
+    "video": false,
+    "chromeWebSecurity": false,
+    "env": {
+        "environment": "dev"
+    }
+}
